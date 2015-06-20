@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data, Course Project
-## Mitra Soleimani 
+## Mitra-2200
 ## 2015- 06- 20
 
 # runAnalysis.r File Description:
