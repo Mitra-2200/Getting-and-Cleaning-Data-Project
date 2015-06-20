@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Project
 
 Overview
-A few steps were taken to transform the initial data set:
+The steps need were taken to transform the initial data set:
 1-	The test and train sets have been merged
 2-	The subject identifiers and activity labels were pulled in to create a single data set. 
 3-	The activity identifiers were translated from identifiers into human-readable names.(Only the mean and standard deviation variables were kept). 
